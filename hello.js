@@ -12,3 +12,12 @@ const add = (a,b) => {
     console.log(sum(20,10));
     console.log(add(20,10));
     console.log(add2(20,10));
+
+    // front end 
+    //react frontend 
+    //vew.js
+    //flask
+    //angular ,bootstrap,,tailwind
+    // backend 
+    // note.js,spring boot, fast api ,django,php
+    
